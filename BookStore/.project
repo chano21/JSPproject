@@ -44,4 +44,71 @@
 		<nature>org.eclipse.wst.common.modulecore.ModuleCoreNature</nature>
 		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/main/webapp/resources/.gitignore</name>
+			<type>1</type>
+			<location>C:/Users/chano/Documents/Visual Studio 2015/Projects/.gitignore</location>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/LICENSE</name>
+			<type>1</type>
+			<location>C:/Users/chano/Documents/Visual Studio 2015/Projects/LICENSE</location>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/Main.html</name>
+			<type>1</type>
+			<location>C:/Users/chano/Documents/Visual Studio 2015/Projects/Main.html</location>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/README.md</name>
+			<type>1</type>
+			<location>C:/Users/chano/Documents/Visual Studio 2015/Projects/README.md</location>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/bootstrap.css.map</name>
+			<type>1</type>
+			<location>C:/Users/chano/Documents/Visual Studio 2015/Projects/bootstrap.css.map</location>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/bootstrap.min.css.map</name>
+			<type>1</type>
+			<location>C:/Users/chano/Documents/Visual Studio 2015/Projects/bootstrap.min.css.map</location>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/css</name>
+			<type>2</type>
+			<location>C:/Users/chano/Documents/Visual Studio 2015/Projects/css</location>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/css3.4.4</name>
+			<type>2</type>
+			<location>C:/Users/chano/Documents/Visual Studio 2015/Projects/css3.4.4</location>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/css3.4.4.zip</name>
+			<type>1</type>
+			<location>C:/Users/chano/Documents/Visual Studio 2015/Projects/css3.4.4.zip</location>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/gulpfile.js</name>
+			<type>1</type>
+			<location>C:/Users/chano/Documents/Visual Studio 2015/Projects/gulpfile.js</location>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/ionicons-2.0.1</name>
+			<type>2</type>
+			<location>C:/Users/chano/Documents/Visual Studio 2015/Projects/ionicons-2.0.1</location>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/package.json</name>
+			<type>1</type>
+			<location>C:/Users/chano/Documents/Visual Studio 2015/Projects/package.json</location>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/vendor</name>
+			<type>2</type>
+			<location>C:/Users/chano/Documents/Visual Studio 2015/Projects/vendor</location>
+		</link>
+	</linkedResources>
 </projectDescription>
