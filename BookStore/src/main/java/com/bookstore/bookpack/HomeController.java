@@ -39,6 +39,10 @@ public class HomeController {
 	public String home1(Locale locale, Model model) {
 		return "redirect: resources/Main.html";
 	}	
+	@RequestMapping(value = "/bookstore")
+	public String BookStoreMain(Locale locale, Model model) {
+		return "BookStore_Main";
+	}	
 	
 	
 	
