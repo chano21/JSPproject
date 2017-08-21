@@ -41,9 +41,12 @@ public class HomeController {
 	}	
 	@RequestMapping(value = "/bookstore")
 	public String BookStoreMain(Locale locale, Model model) {
-		return "BookStore_Main";
+		return "BookStore_Folder/BookStore_Main";
 	}	
-	
+	@RequestMapping(value = "/BookStore_Product_Info")
+	public String BookStoreProductInfo(Locale locale, Model model) {
+		return "BookStore_Folder/BookStore_Product_Info";
+	}	
 	
 	
 }
