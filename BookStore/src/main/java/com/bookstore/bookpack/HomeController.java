@@ -35,7 +35,10 @@ public class HomeController {
 		
 		return "home";
 	}
-	@RequestMapping(value = "/what")
+	
+	
+	
+/*	@RequestMapping(value = "/what")
 	public String home1(Locale locale, Model model) {
 		return "redirect: resources/Main.html";
 	}	
@@ -47,6 +50,6 @@ public class HomeController {
 	public String BookStoreProductInfo(Locale locale, Model model) {
 		return "BookStore_Folder/BookStore_Product_Info";
 	}	
-	
+	*/
 	
 }

@@ -189,13 +189,8 @@
                                     <li><a href="#">Bulk Upload</a></li>
                                 </ul>
                             </li>
-                            <li class=" down">
-                                <a href="#" class="dropdown-toggle active" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">HR <span class="caret"></span></a>
-                                <ul class="dropdown-menu">
-                                    <li><a href="#">Change Time Entry</a></li>
-                                    <li><a href="#">Report</a></li>
-                                </ul>
-                            </li>
+                                 <li><a href="#">관리자</a></li>
+                                
                             <li>
                                 <div class="">
                                     <div class="input-group">
@@ -230,7 +225,7 @@
                                     <li><a href="#">My Profile</a></li>
                                 </ul>
                             </li>
-                            <li class=""><a href="#">Logout</a></li>
+                            <li class=""><a href="BookStore_Loginpage">로그인</a></li>
                         </ul>
                     </div>
 
