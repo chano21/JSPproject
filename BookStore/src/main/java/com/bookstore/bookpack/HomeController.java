@@ -35,19 +35,21 @@ public class HomeController {
 		
 		return "home";
 	}
-	@RequestMapping("/test")
-	public String home1(Locale locale, Model model) {
-		logger.info("Welcome home! The client locale is {}.", locale);
-		
-		Date date = new Date();
-		DateFormat dateFormat = DateFormat.getDateTimeInstance(DateFormat.LONG, DateFormat.LONG, locale);
-		
-		String formattedDate = dateFormat.format(date);
-		
-		model.addAttribute("serverTime", formattedDate );
-		System.out.println("ddddddd");
-		return "test";
-	}	
 	
+	
+	
+/*	@RequestMapping(value = "/what")
+	public String home1(Locale locale, Model model) {
+		return "redirect: resources/Main.html";
+	}	
+	@RequestMapping(value = "/bookstore")
+	public String BookStoreMain(Locale locale, Model model) {
+		return "BookStore_Folder/BookStore_Main";
+	}	
+	@RequestMapping(value = "/BookStore_Product_Info")
+	public String BookStoreProductInfo(Locale locale, Model model) {
+		return "BookStore_Folder/BookStore_Product_Info";
+	}	
+	*/
 	
 }
